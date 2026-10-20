@@ -1,0 +1,8 @@
+build/
+dist/
+installer_output/
+__pycache__/
+# debugging leftovers (screenshots / UI dumps of devices)
+screen_now.png
+ui.xml
+*.png
